@@ -16,4 +16,5 @@ The original idea was to create a one-stop portal for everything to do with your
 
 - Automated Data Scanning - (This can search the internet and other platforms for personal information related to the person that they might not know about, and display it in an easy to understand form and display options on what they can do to manage the information stored, shal it be deletion, etc.)
 - Data Anonymising Options - (This can mean the data collected could be partially destroyed, more-so detached from the person, the data still exists, but it is no-longer tied to the individual, this would be a popular feature among privacy focussed individuals.)
+- Options for data upon passing - (This gives the user a choice for what they want done with their personal data, etc, once they pass.)
 
