@@ -20,3 +20,5 @@ The original idea was to create a one-stop portal for everything to do with your
 - Much More which didnt make it into this due to time. (writing at 4:09pm - 21 minutes before deadline)
 
 Creating a whole system based around managing your own personal data can actually be difficult, this is because certain companies and governments, etc may try to keep certain data hidden from the end user, however we can hope that companies may on-board to this program and make it easier for the end users to manage their own data that is stored by these companies and organizations.
+
+With technology becoming more and more prominent in todays society it is becoming more and more important that we give people the option to manage their own data in a more streamline and easy-to-use solution.
