@@ -18,3 +18,5 @@ The original idea was to create a one-stop portal for everything to do with your
 - Data Anonymising Options - (This can mean the data collected could be partially destroyed, more-so detached from the person, the data still exists, but it is no-longer tied to the individual, this would be a popular feature among privacy focussed individuals.)
 - Options for data upon passing - (This gives the user a choice for what they want done with their personal data, etc, once they pass.)
 - Much More which didnt make it into this due to time. (writing at 4:09pm - 21 minutes before deadline)
+
+Creating a whole system based around managing your own personal data can actually be difficult, this is because certain companies and governments, etc may try to keep certain data hidden from the end user, however we can hope that companies may on-board to this program and make it easier for the end users to manage their own data that is stored by these companies and organizations.
